@@ -1,0 +1,18 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  background-repeat: repeat;
+  overflow-x: hidden;
+}
+
+body {
+  height: 100%;
+  background: linear-gradient(to bottom right, rebeccapurple 0%, black 100%);
+}
+
+.separator {
+  width: 100%;
+  color: color-mix(in lch, gray 30%, white 70%);
+}
